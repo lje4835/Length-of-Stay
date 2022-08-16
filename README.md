@@ -4,15 +4,6 @@
 #
 
 ---
-![Regional Center _ by Slidesgo의 사본](https://user-images.githubusercontent.com/93903494/184844932-adb0501f-136b-40e5-9687-7ed84dbf7297.jpg)
-![Regional Center _ by Slidesgo의 사본 (1)](https://user-images.githubusercontent.com/93903494/184844942-6e7bc066-7e65-4d31-a39e-287284e46591.jpg)
-![Regional Center _ by Slidesgo의 사본 (2)](https://user-images.githubusercontent.com/93903494/184844963-cc000e4b-9de3-47cd-a773-5b8c84af9b9a.jpg)
-![Regional Center _ by Slidesgo의 사본 (3)](https://user-images.githubusercontent.com/93903494/184844974-146f0700-d8ad-4ca2-992c-b7e2cfefbbff.jpg)
-
-
-
-
-
 ![Regional Center _ by Slidesgo의 사본 (1)](https://user-images.githubusercontent.com/93903494/184843491-c8666307-6b57-4c74-896a-8e5656e3b02f.png)
 ![Regional Center _ by Slidesgo의 사본 (2)](https://user-images.githubusercontent.com/93903494/184843515-bb9d7e3b-f163-4159-86ed-85c0fe244324.png)
 ![Regional Center _ by Slidesgo의 사본 (3)](https://user-images.githubusercontent.com/93903494/184843526-e8d20bf0-7e65-49b7-9b8f-92a22bfd788f.png)
