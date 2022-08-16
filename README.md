@@ -1,7 +1,8 @@
 # Length-of-Stay
 ### 효과적인 재원일수 관리 서비스
 프로젝트 기간 : 2022.01.07 - 2022.01.12  
-데이터셋 : https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii
+### 데이터셋  
+https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii
 #
 ---
 ![Regional Center _ by Slidesgo의 사본 (1)](https://user-images.githubusercontent.com/93903494/184843491-c8666307-6b57-4c74-896a-8e5656e3b02f.png)
