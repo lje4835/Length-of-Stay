@@ -1,7 +1,7 @@
 # Length of Stay
 ## 효과적인 재원일수 관리 서비스
 프로젝트 기간 : 2022.01.07 - 2022.01.12
-## 데이터셋
+### 데이터셋
 https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii
 #
 ---
