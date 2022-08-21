@@ -28,6 +28,6 @@ https://www.kaggle.com/datasets/nehaprabhavalkar/av-healthcare-analytics-ii
 ![Regional Center _ by Slidesgo의 사본 (21)](https://user-images.githubusercontent.com/93903494/184843797-097d43af-602f-45f1-8e66-b053143dd5f7.png)
 ![Regional Center _ by Slidesgo의 사본 (22)](https://user-images.githubusercontent.com/93903494/184843810-3ce2b4ad-1412-44b5-8bfc-5f3953221693.png)
 ![Regional Center _ by Slidesgo의 사본 (23)](https://user-images.githubusercontent.com/93903494/184843824-445a6590-2d01-4fcf-bdee-cb9ccdf2199b.png)
-![Regional Center _ by Slidesgo의 사본 (24)](https://user-images.githubusercontent.com/93903494/184843837-f2cfb001-f362-40f6-99eb-9ccc9795087f.png)
-![Regional Center _ by Slidesgo의 사본 (25)](https://user-images.githubusercontent.com/93903494/184843852-24e82b7e-4449-4dd0-bc66-d6d8ca4b495e.png)
+![Regional Center _ by Slidesgo의 사본](https://user-images.githubusercontent.com/93903494/185777869-eec46c5a-1326-419a-9e0c-bbf7a6969f5a.png)
+![Regional Center _ by Slidesgo의 사본 (1)](https://user-images.githubusercontent.com/93903494/185777870-79cb2087-b702-463d-a2ab-881af81e2360.png)
 ![Regional Center _ by Slidesgo의 사본 (26)](https://user-images.githubusercontent.com/93903494/184843858-ee839096-40d8-4778-a578-334fae4ecf63.png)
